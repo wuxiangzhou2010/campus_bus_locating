@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">校车定位查询</string>
+    <string name="demo_name__route_one">1号线</string>
+    <string name="demo_title_route_one">1号线---Route One</string>
+    <string name="demo_desc_route_one">途径站点：洪家楼校区，中心校区，燕山立交北、兴隆山校区、南山小区\n
+                             交通车</string>
+    <string name="demo_name_route_two">2号线</string>
+    <string name="demo_title_route_two">2号线---Route Two</string>
+    <string name="demo_desc_route_two">途径站点：洪家楼校区，中心校区，马家庄、燕山宿舍、趵突泉校区
+          \n交通车</string>
+    <string name="demo_name_route_three">3号线</string>
+    <string name="demo_title_route_three">3号线---Route Three</string>
+    <string name="demo_desc_route_three">途径站点：洪家楼校区 、马家庄、燕山宿舍、千佛山校区\n
+                                         交通车 </string>
+    <string name="demo_name_route_four">4号线</string>
+    <string name="demo_title_route_four">4号线---Route Four</string>
+    <string name="demo_desc_route_four">途径站点：软件园、五号宿舍、洪家楼校区南门、中心校区\n
+                                          班车</string>
+    <string name="demo_name_route_five">5号线</string>
+    <string name="demo_title_route_five">5号线---Route Five</string>
+    <string name="demo_desc_route_five">途径站点：兴隆山校区、阳光舜城、舜玉小区、社会科学院、燕山立交北\n
+                                            班车</string>
+    <string name="demo_name_route_six">6号线</string>
+    <string name="demo_title_route_six">6号线---Route Six</string>
+    <string name="demo_desc_route_six">途径站点：兴隆山校区、中心校区、洪楼校区、五宿舍楼\n
+                                         交通车</string>
+    <string name="demo_name_route_seven">7号线</string>
+    <string name="demo_title_route_seven">7号线---Route Seven</string>
+    <string name="demo_desc_route_seven">途径站点：兴隆山校区、中心校区图书馆 \n 班车</string>
+    <string name="demo_name_route_eight">8号线</string>
+    <string name="demo_title_route_eight">8号线---Route Eight</string>
+    <string name="demo_desc_route_eight">途径站点：三宿舍、二宿舍、中心校区北门、中心校区图书馆\n
+                                      班车</string>
+    <string name="key_error">"请联系开发人员mobile number:18769788832"</string>
+    
+</resources>
